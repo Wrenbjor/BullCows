@@ -1,0 +1,8 @@
+{
+	"files.exclude": {
+		"/Users/wrenbjor/Code/UnrealCourse/BullCowGameV3/.vscode": true,
+		"/Users/wrenbjor/Code/UnrealCourse/BullCowGameV3/Content": true,
+		"/Users/wrenbjor/Code/UnrealCourse/BullCowGameV3/Intermediate": true,
+		"/Users/wrenbjor/Code/UnrealCourse/BullCowGameV3/Saved": true
+	}
+}
